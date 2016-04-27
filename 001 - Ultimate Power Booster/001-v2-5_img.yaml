@@ -1,0 +1,65 @@
+items:
+    ACC: 001-v2_itm_battery.jpg
+    ACC_H: 001-v2_itm_batteryHolder.jpg
+    IC: 001-v2_itm_chip.jpg
+    IC_H: 001-v2_itm_chipHolder.jpg
+    PCB: 001-v2_itm_PCB_front.jpg
+    "C1, C2": 001-v2_itm_capacitor_01uF.jpg
+    "C3, C4": 001-v2_itm_capacitor_220uF.jpg
+    D1: 001-v2_itm_diode.jpg
+    L1: 001-v2_itm_inductor.jpg
+    "R1, R2": 001-v2_itm_resistor_75k.jpg
+    USB: 001-v2_itm_usb.jpg
+
+pictures:
+    step_0:
+        pict:
+            - 001-v2_itm_PCB_front.jpg
+    step_1-1:
+        pict:
+            - 001-v2_stepTop_2.jpg
+            - 001-v2_stepSide_1.jpg
+    step_1-2:
+        pict:
+            - 001-v2_stepTop_3.jpg
+            - 001-v2_stepSide_2.jpg
+    step_2:
+        pict:
+            - 001-v2_stepTop_4.jpg
+            - 001-v2_stepSide_3.jpg
+    step_3:
+        overlay: 001-v2_stepTop_5_ovr.png
+        pict:
+            - 001-v2_stepTop_5.jpg
+            - 001-v2_stepSide_4.jpg
+    step_4:
+        pict:
+            - 001-v2_stepTop_6.jpg
+            - 001-v2_stepSide_5.jpg
+    step_5:
+        pict:
+            - 001-v2_stepTop_7.jpg
+            - 001-v2_stepSide_6.jpg
+    step_6:
+        pict:
+            - 001-v2_stepTop_9.jpg
+            - 001-v2_stepSide_8.jpg
+    step_7-1:
+        pict:
+            - 001-v2_stepTop_11.jpg
+            - 001-v2_stepSide_9.jpg
+    step_7-2:
+        pict:
+            - 001-v2_stepTop_11.jpg
+            - 001-v2_stepSide_10.jpg
+    step_8:
+        pict:
+            - 001-v2_stepTop_12.jpg
+            - 001-v2_stepSide_11.jpg
+    step_9:
+        pict:
+            - 001-v2_stepTop_13.jpg
+            - 001-v2_stepSide_12.jpg
+    step_verif:
+        pict:
+            - 001-v2_end_1.jpg
