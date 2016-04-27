@@ -8,31 +8,31 @@ items:
 
 pictures:
     step_0:
-        - 002-v1_itm_breadboard.jpg
-
+        pict:
+            - 002-v1_itm_breadboard.jpg
     step_1:
-        - 002-v1_stepTop_1.jpg
-
+        pict:
+            - 002-v1_stepTop_1.jpg
     step_2:
-        - 002-v1_stepTop_2.jpg
-        - 002-v1_stepSide_2.jpg
-
+        pict:
+            - 002-v1_stepTop_2.jpg
+            - 002-v1_stepSide_2.jpg
     step_3:
-        - 002-v1_stepTop_3.jpg
-
+        pict:
+            - 002-v1_stepTop_3.jpg
     step_4-1:
-        - 002-v1_stepTop_4-1.jpg
-        - 002-v1_stepGif_1.gif
-        - 002-v1_stepTop_4-2.jpg
-
-    step_4-2:
-        - 002-v1_stepTop_5-1.jpg
-        - 002-v1_stepTop_5-2.jpg
-
+        pict:
+            - 002-v1_stepTop_4-1.jpg
+            - 002-v1_stepGif_1.gif
+            - 002-v1_stepTop_4-2.jpg
+        pict:
+            - 002-v1_stepTop_5-1.jpg
+            - 002-v1_stepTop_5-2.jpg
     step_4-3:
-        - 002-v1_stepTop_6-1.jpg
-        - 002-v1_stepTop_6-2.jpg
-
+        pict:
+            - 002-v1_stepTop_6-1.jpg
+            - 002-v1_stepTop_6-2.jpg
     step_6:
-        - 002-v1_end_1.jpg
-        - 002-v1_end_2.jpg
+        pict:
+            - 002-v1_end_1.jpg
+            - 002-v1_end_2.jpg
