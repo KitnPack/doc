@@ -1,0 +1,27 @@
+items:
+    BATT: 007-v1_itm_battery.jpg
+    U3: 007-v1_itm_chip.jpg
+    U3_H: 007-v1_itm_chipHolder.jpg
+    PCB: 007-v1_itm_PCB_front.jpg
+	"C1, C3": 007-v1_itm_capacitor_4-7uF.jpg
+	"C4, C7": 007-v1_itm_capacitor_01uF.jpg
+    C2: 007-v1_itm_capacitor_470F.jpg
+    "C5, C6": 007-v1_itm_capacitor_220uF.jpg
+    D2: 007-v1_itm_diode.jpg
+	D1: 007-v1_itm_LED_green.jpg
+	D3: 007-v1_itm_LED_blue.jpg
+    L1: 007-v1_itm_inductor.jpg
+	J1: 007-v1_itm_jack.jpg
+	U1: 007-v1_itm_KRC-86b.jpg
+	U1_H: 007-v1_itm_pins_header.jpg
+    R1: 007-v1_itm_resistor_470.jpg
+    R3: 007-v1_itm_resistor_2k.jpg
+    R4: 007-v1_itm_resistor_100k.jpg
+    R5: 007-v1_itm_resistor_3-3k.jpg
+    R6: 007-v1_itm_resistor_4-7k.jpg
+	SPST: 007-v1_itm_switch.jpg
+
+pictures:
+    step_0:
+        pict:
+            - 007-v1_itm_PCB_front.jpg
