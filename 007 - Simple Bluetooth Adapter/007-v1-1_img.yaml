@@ -2,7 +2,7 @@ items:
     BATT: 007-v1_itm_battery.jpg
     U3: 007-v1_itm_chip.jpg
     U3_H: 007-v1_itm_chipHolder.jpg
-    PCB: 007-v1_itm_PCB_front.jpg
+    PCB: 007-v1_itm_PCB.jpg
     "C1, C3": 007-v1_itm_capacitor_4-7uF.jpg
     "C4, C7": 007-v1_itm_capacitor_01uF.jpg
     C2: 007-v1_itm_capacitor_470F.jpg
@@ -24,4 +24,113 @@ items:
 pictures:
     step_0:
         pict:
-            - 007-v1_itm_PCB_front.jpg
+            - 007-v1_itm_PCB.jpg
+
+    step_1:
+        pict:
+            - 007-v1_step_1.jpg
+            - 007-v1_step_1_zoom.jpg
+
+    step_2:
+        pict:
+            - 007-v1_step_2.jpg
+            - 007-v1_step_2_zoom.jpg
+
+    step_3:
+        pict:
+            - 007-v1_step_3.jpg
+            - 007-v1_step_3_zoom.jpg
+
+    step_4:
+        pict:
+            - 007-v1_step_4.jpg
+            - 007-v1_step_4_zoom.jpg
+
+    step_1:
+        pict:
+            - 007-v1_step_1.jpg
+            - 007-v1_step_1_zoom.jpg
+
+    step_5:
+        pict:
+            - 007-v1_step_5.jpg
+            - 007-v1_step_5_zoom.jpg
+
+    step_6:
+        pict:
+            - 007-v1_step_6.jpg
+            - 007-v1_step_6_zoom.jpg
+
+    step_7:
+        pict:
+            - 007-v1_step_7.jpg
+            - 007-v1_step_7_zoom.jpg
+
+    step_8:
+        pict:
+            - 007-v1_step_8.jpg
+            - 007-v1_step_8_zoom.jpg
+
+    step_9:
+        pict:
+            - 007-v1_step_9.jpg
+            - 007-v1_step_9_zoom.jpg
+
+    step_10:
+        pict:
+            - 007-v1_step_10.jpg
+            - 007-v1_step_10_zoom.jpg
+
+    step_11:
+        pict:
+            - 007-v1_step_11.jpg
+            - 007-v1_step_11_zoom.jpg
+
+    step_12:
+        pict:
+            - 007-v1_step_12.jpg
+            - 007-v1_step_12_zoom.jpg
+
+    step_13:
+        pict:
+            - 007-v1_step_13.jpg
+            - 007-v1_step_13_zoom.jpg
+
+    step_14:
+        pict:
+            - 007-v1_step_14.jpg
+            - 007-v1_step_14_zoom.jpg
+
+    step_15:
+        pict:
+            - 007-v1_step_15.jpg
+            - 007-v1_step_15_zoom.jpg
+
+    step_16:
+        pict:
+            - 007-v1_step_16.jpg
+            - 007-v1_step_16_zoom.jpg
+
+    step_17:
+        pict:
+            - 007-v1_step_17.jpg
+            - 007-v1_step_17_zoom.jpg
+
+    step_18:
+        pict:
+            - 007-v1_step_18.jpg
+            - 007-v1_step_18_zoom.jpg
+
+    step_19:
+        pict:
+            - 007-v1_step_19.jpg
+            - 007-v1_step_19_zoom.jpg
+
+    step_20:
+        pict:
+            - 007-v1_step_20.jpg
+
+    step_21:
+        pict:
+            - 007-v1_step_21.jpg
+            - 007-v1_step_21_zoom.jpg
