@@ -5,7 +5,7 @@ items:
     PCB: 007-v1_itm_PCB.jpg
     "C1, C3": 007-v1_itm_capacitor_4-7uF.jpg
     "C4, C7": 007-v1_itm_capacitor_01uF.jpg
-    C2: 007-v1_itm_capacitor_470F.jpg
+    C2: 007-v1_itm_capacitor_470uF.jpg
     "C5, C6": 007-v1_itm_capacitor_220uF.jpg
     D5: 007-v1_itm_diode.jpg
     D1: 007-v1_itm_LED_green.jpg
